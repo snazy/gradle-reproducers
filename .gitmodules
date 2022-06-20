@@ -1,0 +1,3 @@
+[submodule "issue-21017/iceberg"]
+	path = issue-21017/iceberg
+	url = https://github.com/apache/iceberg
